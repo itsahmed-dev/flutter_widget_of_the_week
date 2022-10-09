@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 
-void main() => runApp(const StarterApp());
+void main() => runApp(const FlutterWidgetsApp());
 
-class StarterApp extends StatelessWidget {
-  const StarterApp({super.key});
+class FlutterWidgetsApp extends StatelessWidget {
+  const FlutterWidgetsApp({super.key});
 
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-      title: 'Starter App',
+      title: 'Flutter Widgets',
       home: HomePage(),
     );
   }

@@ -1,10 +1,8 @@
-# starter
+# flutter_widgets_of_the_week_series
 
-A new Flutter project.
+A project to explore all widgets in the series "Flutter Widgets of the Week".
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 

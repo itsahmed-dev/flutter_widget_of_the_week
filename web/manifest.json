@@ -1,6 +1,6 @@
 {
-    "name": "starter",
-    "short_name": "starter",
+    "name": "flutter_wotw",
+    "short_name": "flutter_wotw",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
